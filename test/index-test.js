@@ -21,7 +21,7 @@ describe('managePresents', () => {
 })
 
 describe('manageFriends', () => {
-  let state = {
+  let state = { 
     friends: [
       {
         name: 'Avi',
